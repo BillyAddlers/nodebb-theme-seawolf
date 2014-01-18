@@ -33,7 +33,7 @@
 </head>
 
 <body>
-	<div class="navbar navbar-inverse navbar-fixed-top header" role="navigation" id="header-menu" style="height: 50px">
+	<div class="navbar navbar-inverse navbar-fixed-top header" role="navigation" id="header-menu">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
