@@ -91,7 +91,7 @@
 					</li>
 
 					<li class="notifications dropdown text-center hidden-xs">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="notif_dropdown"></a>
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="notif_dropdown" style="height: 50px"></a>
 						<ul id="notif-list" class="dropdown-menu" aria-labelledby="notif_dropdown">
 							<li>
 								<a href="#"><i class="fa fa-refresh fa-spin"></i> [[global:notifications.loading]]</a>
@@ -109,7 +109,7 @@
 					</li>
 
 					<li id="user_label" class="dropdown">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="user_dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="user_dropdown" style="height: 50px">
 							<img src=""/>
 						</a>
 						<ul id="user-control-list" class="dropdown-menu" aria-labelledby="user_dropdown">
