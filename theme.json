@@ -1,9 +1,9 @@
 {
 	"id": "nodebb-theme-seawolf",
 	"name": "Sea Wolf Theme for NodeBB",
-	"desciption": "A theme based on the Sea Wolf colours from Kuler",
+	"description": "A theme based on the Sea Wolf colours from Kuler",
 	"url": "",
-	"screenshot": "null",
+	"screenshot": "screenshot.png",
 	"templates": "templates",
 	"staticDir": "static"
 }
