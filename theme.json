@@ -3,7 +3,5 @@
 	"name": "Sea Wolf Theme for NodeBB",
 	"description": "A theme based on the Sea Wolf colours from Kuler",
 	"url": "",
-	"screenshot": "screenshot.png",
-	"templates": "templates",
-	"staticDir": "static"
+	"screenshot": "screenshot.png"
 }
